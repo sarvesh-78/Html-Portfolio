@@ -1,0 +1,20 @@
+
+body{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    background-color: #311266;
+}
+.links{
+    display: inline-flex;
+    align-items: center;
+    gap: 10px; 
+}
+  
+.links img {
+height: 30px; /* Adjust size as needed */
+width: auto;
+}
+
+a{
+    text-decoration: none;
+}
